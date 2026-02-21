@@ -1,1 +1,2 @@
 Git is fun!
+Second line from clone
